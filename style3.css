@@ -1,0 +1,63 @@
+
+.box{
+    background-color:gray;
+    border: 2px solid black;
+    padding: 12px;
+    position: relative;
+    width: 150px;
+    height: 150px;
+}
+
+.header{
+    background-color:rgb(204, 197, 197);
+    position: absolute;
+    width: 900px;
+    height: 700px;
+    margin-left: 250px;
+}
+body{
+    position:relative;
+    
+}
+
+.div1{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+
+.div2{
+    background-color: green;
+    text-align: center;
+    color: white;
+    left: 722px;
+    top: -177px;
+}
+
+
+
+.div3{
+    background-color:rgb(82, 78, 78);
+    text-align: center;
+    color: white;
+    left: 345px;
+    top: -80px;
+   
+}
+
+.div4{
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    top: -10px;
+}
+
+
+.div5{
+    background-color:darkorchid;
+    text-align: center;
+    color: white;
+    left: 722px;
+    top: -187px;
+    
+}

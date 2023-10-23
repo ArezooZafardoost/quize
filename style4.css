@@ -1,0 +1,99 @@
+@import url(//Inter-VariableFont_slnt\,wght.ttf);
+
+
+:root{
+  --h1-font-size:3.7rem;
+}
+.header{
+  background-color:rgb(235, 227, 227);
+  width: 950px;
+  height: 700px;
+  margin-left: 250px;
+  margin-top: 0;
+  
+}
+
+h1{
+  font-size:var(--h1-font-size);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-style:normal;
+  padding-left: 10px;
+  padding-top: 5px;
+  
+}
+h2{
+  font-size:var(--h1-font-size);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-style:normal;
+  padding-left: 10px;
+  padding-top: 0;
+
+  }
+
+h2{
+  font-size:var(--h1-font-size);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-style:normal;
+  padding-left: 10px;
+  padding-top: 0;
+
+  }
+
+  h2{
+    font-size:var(--h1-font-size);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:normal;
+    padding-left: 10px;
+    padding-top: 0;
+  
+    }
+
+
+    p{
+      font-family:inherit;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+
+
+
+    .header{
+      background-color:rgb(235, 227, 227);
+      width: 950px;
+      height: 850px;
+      margin-left: 250px;
+      margin-top: 40px;
+      
+    }
+
+    h3{
+      /* font-size:var(--h1-font-size); */
+      font-family:sans-serif;
+      font-style:normal;
+      padding-left: 10px;
+      padding-top: 5px;
+      font-size: 45px;
+
+    }
+
+    h4{
+      /* font-size:var(--h1-font-size); */
+      font-family:serif;
+      padding-left: 10px;
+      font-size: 45px;
+      
+    }
+
+    
+      p{
+        font-family:Georgia;
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+
+      p{
+        font-family:Georgia;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 40px;
+      }
